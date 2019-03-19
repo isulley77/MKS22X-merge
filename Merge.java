@@ -14,6 +14,12 @@ mergesort(data,lo,hi):
   mergesort right side
   merge
 */
+  
+  
+  
+  public void insertionsort(int[] data, int lo,int hi){}  
+
+
 
 
 }
